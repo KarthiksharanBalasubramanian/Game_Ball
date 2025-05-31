@@ -1,4 +1,4 @@
-Bucket Collect Balls Game - Flutter
+*Bucket Collect Balls Game - Flutter*
 This project is a simple mobile game developed in Flutter as part of COMP5450 Exercise 3. The user controls a bucket to catch falling balls using swipe gestures. Each ball falls from a random position and with a random speed, making the game unpredictable and challenging.
 Features
 - Random ball spawn position and speed
